@@ -1,0 +1,6 @@
+@import "reset.css";
+@import "color.css";
+
+body {
+    line-height: 1.3;
+}
